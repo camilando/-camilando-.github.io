@@ -64,7 +64,7 @@ float: left;
 body{
 
     font-family:'Raleway', Arial, Helvetica, sans-serif;
- 
+    background: url("img/topography.png");
 }
 
 
@@ -96,8 +96,8 @@ text-align: center;
   margin-left:100px;
   margin-right:100px;
 
-
 }
+
  
 footer {
    left: 0;
