@@ -64,6 +64,7 @@ float: left;
 body{
 
     font-family:'Raleway', Arial, Helvetica, sans-serif;
+    background: url("img/topography.png");
  
 }
 
@@ -76,10 +77,10 @@ a{
 }
  
 #mapDIV{
-  height: 700px;
-  width: 1100px;
+  height: 600px;
+  width: 1000px;
   border: solid 1px black;
-  margin-left: 130px;
+  margin-left: 180px;
 }
  
 footer {
