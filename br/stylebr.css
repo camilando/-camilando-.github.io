@@ -65,6 +65,8 @@ body{
 
     font-family:'Raleway', Arial, Helvetica, sans-serif;
     background: url("img/topography.png");
+    margin-left:5px;
+    margin-right:5px;
 }
 
 
@@ -74,7 +76,40 @@ a{
     text-decoration: none;
 
 }
- 
+
+.cruzeiro{
+width: 900px;
+height: 700px;
+align-content: center;
+}
+
+.bonfim{
+width: 60%;
+height: 90%;
+}
+
+.ajax{
+width: 60%;
+height: 90%;
+}
+
+.castelosacu{
+width: 60%;
+height: 90%;
+}
+
+.luaabrigo{
+width: 60%;
+height: 90%;
+}
+
+.dedodedeus{
+width: 60%;
+height: 90%;
+}
+
+
+
 footer {
    left: 0;
    bottom: 0;
