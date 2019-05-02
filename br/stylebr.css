@@ -77,10 +77,19 @@ a{
 
 }
 
+.titulo{
+text-align: center;
+
+}
+
 .cruzeiro{
+display: block;
+margin-left: auto;
+margin-right: auto;
 width: 900px;
 height: 700px;
-align-content: center;
+text-align:center;
+
 }
 
 .bonfim{
