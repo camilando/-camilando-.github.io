@@ -65,6 +65,7 @@ body{
 
     font-family:'Raleway', Arial, Helvetica, sans-serif;
     background: url("img/topography.png");
+}
  
 }
 
@@ -76,10 +77,41 @@ a{
 
 }
 
+.conteudo{
+
+margin-left:5px;
+margin-right:5px;
+
+}
+
+}
+
 .titulosp{
   text-align: center;
 
 }
+
+.titulocachoeira{
+  text-align: center;
+}
+
+.fototitulo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 950px;
+height: 700px;
+text-align:center;
+
+}
+
+
+.atoleiro, .riozinho, .vista1, .vistacubatao, .prainha{
+width: 60%;
+height: 90%;
+}
+
+
  
 #mapDIV{
   height: 600px;
